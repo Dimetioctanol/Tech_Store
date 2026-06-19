@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Variables de entorno (NUNCA subir a Git)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Base de datos
+*.db
+*.sqlite
